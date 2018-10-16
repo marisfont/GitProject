@@ -32,3 +32,9 @@ Proyecto 1
 ### ERROR
 >Hacer merge entre la rama "master" y la rama "conflict" usando git merge conflict
 >Obtenemos un error 
+### MENSAJE ERROR
+![Error Message](error.png)
+## Paso 12 
+>Arreglar error limpiando el codigo de la rama "master"
+### NETWORK FINAL
+![Network](GitProject_Final.png)
